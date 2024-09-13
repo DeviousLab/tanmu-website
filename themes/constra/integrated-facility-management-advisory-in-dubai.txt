@@ -167,8 +167,8 @@
                         <li><a href="vendor-selection-in-dubai.html">Vendor Selection</a></li>
                         <li><a href="quality-monitoring-in-dubai.html">Quality Monitoring</a></li>
                         <li><a href="project-mangement-in-dubai.html">Project Management</a></li>
-                        <li><a href="integrated-facility-management-advisory-in-dubai.html">Integrated Facilities
-                            Management Advisory</a></li>
+                        <!-- <li><a href="integrated-facility-management-advisory-in-dubai.html">Integrated Facilities
+                            Management Advisory</a></li> -->
                         <li><a href="luxury-villa-in-dubai.html">Luxury Villa Development</a></li>
                       </ul>
                     </li>

@@ -53,10 +53,16 @@
             <ul class="list-unstyled">
               <li>
                 <a title="Facebook" href="https://www.facebook.com/tanmupms">
-                  <span class="social-icon"><i class="fab fa-facebook-f"></i>
+                  <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
                 </a>
                 <a title="Linkedin" href="https://www.linkedin.com/company/tanmu-project-management-services">
-                  <span class="social-icon"><i class="fab fa-linkedin"></i>
+                  <span class="social-icon"><i class="fab fa-linkedin"></i></span>
+                </a>
+                <a title="Instagram" href="https://www.instagram.com/tanmu_pms/">
+                  <span class="social-icon"><i class="fab fa-instagram"></i></span>
+                </a>
+                <a title="TikTok" href="https://www.tiktok.com/@tanmupms">
+                  <span class="social-icon"><i class="fab fa-tiktok"></i></span>
                 </a>
               </li>
             </ul>
